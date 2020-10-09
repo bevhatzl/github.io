@@ -33,13 +33,13 @@ This is my own personal portfolio made in HTML and CSS.
 
 #### Initial interface
 
-![Screenshot of About Me page of portfolio](/images/)
+![Screenshot of About Me page of portfolio](/images/about.png)
 
 #### Final Interfaces
 
-![Screenshot of Contact Page of portfolio](/images/)
+![Screenshot of Contact Page of portfolio](/images/contact.png)
 
-![Screenshot of Portfolio page showing 6 different projects](/images/)
+![Screenshot of Portfolio page showing 6 different projects](/images/port.png)
 
 ## Author
 Beverley Hatzl 2020
