@@ -20,14 +20,59 @@ header.container-fluid {
     text-align: center;
 }
 
+#port-row {
+    margin-top: 0;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.ccontact-row {
+    width: 200px;
+}
+
+.last-row {
+    padding-bottom: 20px;
+}
+
 .nav-link {
     font-weight: 700;
 }
 
 .row {
     margin-top: 50px;
+  
 
 }
+
+#contact-cont {
+    width: 30em;
+    padding-bottom: 20px;
+}
+
+.image-holder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-content: space-around; */
+    text-align: center;
+    min-height: 350px;
+    max-width: 350px;
+;
+    border: 3px solid rgb(22, 77, 100);
+   /* margin: 20px; */
+   /* max-width: 200px; */
+ 
+}
+
+.image-link {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+  
+}
+
 .flex-wrap {
     display: flex;
     flex-direction: column;
@@ -53,17 +98,17 @@ header.container-fluid {
     width: 200px;
     height: 200px;
     float: left; 
-     /* margin-right: 15px;
-    margin-bottom: 10px;  */
 }
 
 .port-pic {
     width: 100%;
-    float: left;
-    margin-bottom: 10px;
-    width: 200px;
+    width: 150px;
     padding: 10px;
 
+}
+
+.pic2, .quiz-pic, .pw-pic {
+    width: 300px;
 }
 
 main.container {
@@ -72,7 +117,9 @@ main.container {
 
 .p-cont {
     max-width: 50%;
+
     background-color: white;
+    
 }
 
 /* Responsive display for portfolio images on medium screens */  
