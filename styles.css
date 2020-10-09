@@ -20,14 +20,9 @@ header.container-fluid {
     text-align: center;
 }
 
-/* #port-row {
-
-    margin-top: 0;
-    margin-bottom: 10px;
-    display: flex;
-    justify-content: space-around;
-
-} */
+.portfolio-item-caption-content {
+    padding-bottom: 10px;;
+}
 
 .column-image {
     text-align: center;
@@ -42,7 +37,7 @@ header.container-fluid {
 }
 
 .row {
-    margin-top: 50px;
+    margin-top: 20px;
   
 
 }
@@ -133,7 +128,7 @@ main.container {
 }
 
 .p-cont {
-    max-width: 50%;
+    max-width: 60%;
 
     background-color: white;
     
